@@ -15,7 +15,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <owasp-sanitizer.version>20190610.1</owasp-sanitizer.version>
         <owb.version>2.0.12</owb.version>
-        <hibernate-validator.version>5.0.1.Final</hibernate-validator.version>
+        <hibernate-validator.version>5.3.5.Final</hibernate-validator.version>
         <mojarra.version>2.3.13</mojarra.version>
         <myfaces.version>2.3.4</myfaces.version>
         <jetty.version>9.4.20.v20190813</jetty.version>
